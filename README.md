@@ -1,5 +1,5 @@
-# hola-ring-snippets
-Hola Ring snippets
+# hoja-ring-snippets
+Hoja Ring snippets
 
 
 -----
